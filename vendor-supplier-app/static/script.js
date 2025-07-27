@@ -1,0 +1,1 @@
+function changeLang(lang) { window.location.href = `/panel?lang=${lang}`; }

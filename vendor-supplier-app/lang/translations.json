@@ -1,0 +1,5 @@
+{
+  "en": { "panel_title": "Admin Panel", "location": "Your Location", "description": "Manage everything here." },
+  "hi": { "panel_title": "प्रशासन पैनल", "location": "आपका स्थान", "description": "यहाँ से सब कुछ प्रबंधित करें।" },
+  "bn": { "panel_title": "অ্যাডমিন প্যানেল", "location": "আপনার অবস্থান", "description": "এখান থেকে সব কিছু পরিচালনা করুন।" }
+}
