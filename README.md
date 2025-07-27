@@ -1,1 +1,0 @@
-# vendor-supplier-app
